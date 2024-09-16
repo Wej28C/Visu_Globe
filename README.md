@@ -20,7 +20,7 @@ This project is a Unity-based 3D data visualization tool that displays populatio
 2. Open the project in Unity.
 3. Import the required assets (textures and JSON file).
 4. Press Play to view the rotating globe and the city population visualization.
-![Visu_Globe](Capture d'écran 2024-09-16 111529.png)
+![Visu_Globe](Visu_globe.png)
 
 ## Future Improvements:
 - Add user interaction for zooming and panning.
